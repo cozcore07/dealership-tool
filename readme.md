@@ -1,4 +1,5 @@
-Google Sheet to Interactive Dealership Tool 🚗
+#**Google Sheet to Interactive Dealership Tool 🚗**
+
 A simple and effective web application that transforms complex dealership sales spreadsheets into an interactive online dashboard. Dealers can log in, input sales data, and instantly see key metrics like monthly pace, deal average, and gross profit — all updated live.
 
 🔧 Features
